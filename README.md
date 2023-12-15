@@ -1,4 +1,4 @@
-Certainly! Below is a combined README file that encompasses both the frontend and backend aspects of your project.
+Certainly! Here's the modified README with the updated directory names:
 
 ---
 
@@ -19,7 +19,7 @@ Before running the project, make sure you have the following software installed:
 To install the necessary frontend packages, open a terminal in the project directory and run the following command:
 
 ```bash
-cd frontend
+cd Quiz_App_client
 npm install
 ```
 
@@ -28,7 +28,7 @@ npm install
 To install the necessary backend packages, open a terminal in the project directory and run the following command:
 
 ```bash
-cd backend
+cd Quiz_App_Server
 npm install
 ```
 
@@ -38,7 +38,7 @@ If your project requires any configuration, provide instructions on how users ca
 
 ### Backend Configuration
 
-If applicable, provide details on backend configuration specific to the backend directory.
+If applicable, provide details on backend configuration specific to the Quiz_App_Server directory.
 
 ## Database Setup
 
@@ -51,7 +51,7 @@ If your project involves a database, provide instructions on how to set up and c
 To start the frontend application, use the following command:
 
 ```bash
-cd frontend
+cd Quiz_App_client
 npm start
 ```
 
@@ -62,7 +62,7 @@ This will launch the frontend application, accessible at [http://localhost:3000]
 To start the backend server, run the following command:
 
 ```bash
-cd backend
+cd Quiz_App_Server
 npm start
 ```
 
@@ -90,4 +90,4 @@ Provide contact information or ways for users to get in touch with you or the pr
 
 ---
 
-Feel free to further customize the sections based on your specific project's details and structure.
+Feel free to adapt it further to meet your specific project's details and structure.
